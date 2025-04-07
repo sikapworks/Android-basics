@@ -25,6 +25,5 @@ class MainActivityTwo : ComponentActivity() {
 private fun PreviewFunction() {
     Text(
         text = "Hello",
-//        modifier = Modifier.background(Color.Blue)
     )
 }
